@@ -1,0 +1,4 @@
+azureml
+azureml-core --user
+--upgrade azureml-sdk
+--upgrade 'azureml-sdk[notebooks]'

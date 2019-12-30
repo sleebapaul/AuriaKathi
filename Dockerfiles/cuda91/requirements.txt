@@ -1,0 +1,10 @@
+http://download.pytorch.org/whl/cu91/torch-0.4.0-cp36-cp36m-linux_x86_64.whl
+torchvision
+scikit-umfpack
+setuptools
+numpy
+Pillow
+scipy
+pynvrtc==9.1
+cupy-cuda91
+azureml-sdk
